@@ -1,5 +1,5 @@
 # Inventory-decision-problem
-
+Inventory management
 
 
 This problem set was designed by 王逸琳I-Lin Wang, Professor in Department of Industrial &amp; Information Management, NCKU. 
